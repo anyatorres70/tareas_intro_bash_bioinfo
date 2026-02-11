@@ -2,7 +2,11 @@
 
 **Introducción**
 
-*Debaryomyces hansenii* es una levadura marina no convencional perteneciente al clado CTG-Ser1 (-). Un grupo de levaduras que se caracteriza por la traducción ambigua del codón CTG, el cuál es traducido principalmente como Serina, y en menor medida como Leucina (-). 
+*Debaryomyces hansenii* es una levadura marina no convencional perteneciente al clado CTG-Ser1 (1,2). Un grupo de levaduras que se caracteriza por su capacidad de traducir ambiguamente el codón CTG principalmente en Serina, y en menor medida como Leucina (3). Esta ambiguedad en la traducción se propone como un mecanismo evolutivo que le permite adaptarse a ambientes extremos y la respuesta al estrés (4). 
+
+El conocer que genes tienen una mayor frecuencia de CTG, así como la posición que ocupa dentro de la secuencia es muy importante para comprender su posible impacto funcional. El que un gen presenta una gran cantidad de codones CTG podría aumentar la posibilidad de que ocurra incorporación ambigua de Ser o Leu durante la traducción, especialmente bajo condiciones de estrés, afectando la estructura y función de sus proteínas, lo que podría llegar a afectar su morfología y fisiología. 
+
+Se propone analizar el uso del codón CTG en *D. hansenii*, para identificar genes enriquecidos en este codón y poder crear una base para el estudio posterior que evalue si la traducción ambigua del CTG se modula en respuesta a diferentes condiciones ambientales.
 
 
 **Objetivo General**
@@ -44,4 +48,7 @@
 - GitHub
 
 **Referencias**
-- f
+  1. Prista, C., C. Michán, I.M. Miranda, y J. Ramos. The halotolerant Debaryomyces hansenii, the Cinderella of non-conventional yeasts. Yeast, 2016; 33(10), 523-533. doi:10.1002/yea.3177
+  2. Segal-Kischinevzky, C., L. Romero-Aguilar, L.D. Alcaraz, G. López-Ortiz, B. Martínez- Castillo, N. Torres-Ramírez, G. Sandoval and J. González. Yeasts Inhabiting Extreme Environments and Their Biotechnological Applications. Microorganisms, 2022; 10(4), 794. 
+  3. Breuer, U., y H. Harms. Debaryomyces hansenii — an extremophilic yeast with biotechnological potential. Yeast,2006; 23(6), 415-437. doi:10.1002/yea.1374
+  4. Ochoa-Gutiérrez, D., Reyes-Torres, A. M., de la Fuente-Colmenares, I., Escobar-Sánchez, V., González, J., Ortiz-Hernández, R., Torres-Ramírez, N. & Segal-Kischinevzky, C. Alternative CUG Codon Usage in the Halotolerant Yeast Debaryomyces hansenii: Gene Expression Profiles Provide New Insights into Ambiguous Translation. Journal of Fungi, 2022; 8(9), 970. doi:10.3390/jof8090970
